@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @LeMasterDJ
-- 👀 I’m interested in natural science including medicine.
-- 🌱 I’m currently learning med lab technology.
-- 💞️ I’m looking to collaborate on projects involving web development.
-- 📫 How to reach me: lemaster.dev
+- 👋 Hi, I'm interested in natural science involving medicine. At this time, I'm pursuing an undergraduate degree in medical laboratory technology.
+- 💞️ Looking to collaborate on projects involving web development, feel free to reach out!
 
 <!---
 LeMasterDJ/LeMasterDJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
